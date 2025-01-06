@@ -17,3 +17,5 @@
 16. <a href="https://www.coursera.org/">Coursera</a> - Online courses from top universities and companies worldwide.
 17. <a href="https://www.edx.org/">edX</a> - High-quality education from top universities and institutions.
 18. <a href="https://www.udemy.com/">Udemy</a> - A vast marketplace for online courses on practically any topic.
+19. <a href="https://www.linkedin.com/learning">Linkedin Learning</a> - Professional skill-building with expert-led courses.
+20. <a href="https://analytics.google.com/">Google analytics</a> - The industry standard for tracking website traffic, user behavior, and conversions.
