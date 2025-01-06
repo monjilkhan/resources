@@ -16,3 +16,4 @@
 15. <a href="https://zapier.com/">Zaiper</a> - An automation tool that connects apps and services to automate workflows using AI.
 16. <a href="https://www.coursera.org/">Coursera</a> - Online courses from top universities and companies worldwide.
 17. <a href="https://www.edx.org/">edX</a> - High-quality education from top universities and institutions.
+18. <a href="https://www.udemy.com/">Udemy</a> - A vast marketplace for online courses on practically any topic.
