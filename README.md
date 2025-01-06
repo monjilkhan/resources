@@ -11,3 +11,6 @@
 10. <a href="https://www.rescuetime.com/">RescueTime</a> - A time management tool.
 11. <a href="https://chatgpt.com">ChatGPT</a> - An AI assistant for generating ideas, drafting content, coding, and answering queries.
 12. <a href="https://x.ai">Grok</a> - An AI assistant for generating anything.
+13. <a href="https://runwayml.com/">RunwayML</a> - An AI tool for creating and editing images and videos.
+14. <a href="https://pictory.ai/">Pictory</a> - AI software that transforms long videos into short, engaging clips for social media.
+15. <a href="https://zapier.com/">Zaiper</a> - An automation tool that connects apps and services to automate workflows using AI.
