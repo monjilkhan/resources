@@ -9,3 +9,5 @@
 8. <a href="https://trello.com/">Trello</a> - A flexible and visual way to organize tasks and collaborate on projects.
 9. <a href="https://evernote.com/">Evernote</a> - A note-taking app that helps capture ideas and organize them effectively.
 10. <a href="https://www.rescuetime.com/">RescueTime</a> - A time management tool.
+11. <a href="https://chatgpt.com">ChatGPT</a> - An AI assistant for generating ideas, drafting content, coding, and answering queries.
+12. <a href="https://x.ai">Grok</a> - An AI assistant for generating anything.
